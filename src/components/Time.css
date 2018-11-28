@@ -1,0 +1,35 @@
+.image_avatar
+{
+height: 180px;
+margin: 30px;
+margin-top: 2px;
+margin-bottom: 2px;
+}
+
+.time
+{
+  width: 50%;
+}
+
+.date
+{
+  width: 50%;
+  text-align: right;
+}
+.location
+{
+  width: 100%;
+}
+.searchbox
+{
+  text-align: center;
+}
+.ui.comments:last-child
+{
+    display: block;
+}
+.comment
+{
+  display: inline-block;
+  width: 50%;
+}
